@@ -5,7 +5,7 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "Substance",
+			"Name": "LevelSequenceEditor",
 			"Enabled": true
 		}
 	]
