@@ -7,10 +7,6 @@
 		{
 			"Name": "LevelSequenceEditor",
 			"Enabled": true
-		},
-		{
-			"Name": "Substance",
-			"Enabled": true
 		}
 	]
 }
